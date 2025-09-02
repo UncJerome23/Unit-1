@@ -9,7 +9,7 @@ security threat.
 - How does malicious software impact computer systems?
 
 ### Lecture Notes
-> From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
+> From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s): MALWARE: First piece of malware. Virus - a program that attaches to a host file with the goal of installing. Worm - program that reproduces itself through a computer. Trojan Horse; is an installed virus that look safe. Backdoor-  Program that creates a mechanism on your device.
 
 ...
 
