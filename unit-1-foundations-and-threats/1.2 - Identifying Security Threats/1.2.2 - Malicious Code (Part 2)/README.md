@@ -10,7 +10,11 @@ security threat.
 
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
+Key to a Zero day is that there is a time period where the flaw is not known to exist so there are no defenses or signitures against it.
 
+About Ransomware the methods used are Encrypt files, lock the screen so no program will show. Lock the PC Master Boot Record so that device won't boot. Harvest browser activity and threathen to post online.
+
+About Spyware Info can include passwords, PINS, credit card numbers , browsing habits and email adresses.It does not spread to other computers like a virus or worm.
 ...
 
 ### Application / Personal Research / Summary
