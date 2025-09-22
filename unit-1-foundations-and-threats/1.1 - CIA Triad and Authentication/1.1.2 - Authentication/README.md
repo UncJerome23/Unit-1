@@ -9,6 +9,17 @@
 
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
+> 3 ways to authenticate:
+
+.Something you know password
+
+. Something you have- SmartCard or Code
+
+. Something you are- Fingerprint or faceId
+
+Passwords Attacks-
+
+Brute Force- software programs which process of rapidly testing all possible combinations of characters.
 
 ...
 
