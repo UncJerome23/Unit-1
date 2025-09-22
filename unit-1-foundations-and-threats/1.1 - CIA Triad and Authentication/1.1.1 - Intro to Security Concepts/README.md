@@ -9,7 +9,8 @@
 - How does the protection of the CIA triad lead to the security of data?
 
 ### Lecture Notes
-> From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
+> From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s): Model of Computer Security- Protection=Prevention +(Detection +Response)
+> 
 
 ...
 
