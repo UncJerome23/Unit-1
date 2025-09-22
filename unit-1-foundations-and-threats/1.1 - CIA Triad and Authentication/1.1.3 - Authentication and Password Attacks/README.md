@@ -9,6 +9,11 @@
 
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
+> Advantage from Password Spraying it avoids lockouts that are invoked after 2-3 incorrect password attempt.
+
+Attacks assumes most people reuse their passwords and depends on using breached credentials.
+
+Reports shows that 52 percent of people have a favorite password.
 
 ...
 
