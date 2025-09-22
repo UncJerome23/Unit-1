@@ -12,6 +12,7 @@
 
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
+> Careers Available to Students in Cybersecurity Security Analyst: Monitors networks and looks for problems.Ethical Hacker / Penetration Tester: Tests systems for vulnerabilities legally.Security Engineer/Architect: Designs secure systems for companies.
 
 ...
 
